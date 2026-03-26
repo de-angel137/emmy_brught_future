@@ -339,14 +339,3 @@ body{
     margin-top: 30px;
 	border-radius: 13px;
 }
-
-@media (max-width: 1024px){	
-	.global-footer{
-		padding: 14px;
-		font-size: 14px;
-	}
-
-	.footer-bottom{
-		text-align: center;
-	}
-}
